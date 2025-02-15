@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+.navbar-nav .nav-link {
+      padding-right: 1rem;
+      padding-left: 1rem;
+    }
+    .form-inline {
+      margin-left: auto;
+    }
